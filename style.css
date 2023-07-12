@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(141, 138, 138);
+    margin-top: 10%;
+    margin-left: 30%;
+    font-family: 'courier New','Courier New', Courier, monospace;
+}
+input{
+    height: 25px;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+    padding: 5px;
+}
+P{
+    font-size: 20pt;
+    font-weight: bold;
+}
